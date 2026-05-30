@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <img width="128" src="/assets/logo.png" alt="Simple Live logo">
+    <img width="12 8" src="/assets/logo.png" alt="Simple Live logo">
 </p>
 <h2 align="center">Simple Live</h2>
 
